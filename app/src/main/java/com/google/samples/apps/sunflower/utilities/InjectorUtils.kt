@@ -25,9 +25,6 @@ import com.google.samples.apps.sunflower.viewmodels.GardenPlantingListViewModelF
 import com.google.samples.apps.sunflower.viewmodels.PlantDetailViewModelFactory
 import com.google.samples.apps.sunflower.viewmodels.PlantListViewModelFactory
 
-/**
- * Static methods used to inject classes needed for various Activities and Fragments.
- */
 object InjectorUtils {
 
     private fun getPlantRepository(context: Context): PlantRepository {

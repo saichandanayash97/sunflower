@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d4ecbf85-5a94-4d76-a3eb-889d95ce022a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/google/samples/apps/sunflower/GardenActivityTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/google/samples/apps/sunflower/GardenActivityTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/google/samples/apps/sunflower/PlantDetailFragmentTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/google/samples/apps/sunflower/PlantDetailFragmentTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/google/samples/apps/sunflower/data/GardenPlantingDaoTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/google/samples/apps/sunflower/data/GardenPlantingDaoTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/google/samples/apps/sunflower/data/PlantDaoTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/google/samples/apps/sunflower/data/PlantDaoTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/google/samples/apps/sunflower/utilities/LiveDataTestUtil.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/google/samples/apps/sunflower/utilities/LiveDataTestUtil.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/google/samples/apps/sunflower/utilities/TestUtils.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/google/samples/apps/sunflower/utilities/TestUtils.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/google/samples/apps/sunflower/viewmodels/PlantDetailViewModelTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/google/samples/apps/sunflower/viewmodels/PlantDetailViewModelTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/GardenActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/GardenActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/GardenFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/GardenFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/HomeViewPagerFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/HomeViewPagerFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/PlantDetailFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/PlantDetailFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/PlantListFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/PlantListFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/adapters/BindingAdapters.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/adapters/BindingAdapters.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/adapters/GardenPlantingAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/adapters/GardenPlantingAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/adapters/PlantAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/adapters/PlantAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/adapters/PlantDetailBindingAdapters.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/adapters/PlantDetailBindingAdapters.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/adapters/SunflowerPagerAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/adapters/SunflowerPagerAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/data/AppDatabase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/data/AppDatabase.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/data/Converters.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/data/Converters.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/data/GardenPlanting.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/data/GardenPlanting.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/data/GardenPlantingDao.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/data/GardenPlantingDao.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/data/GardenPlantingRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/data/GardenPlantingRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/data/Plant.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/data/Plant.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/data/PlantAndGardenPlantings.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/data/PlantAndGardenPlantings.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/data/PlantDao.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/data/PlantDao.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/data/PlantRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/data/PlantRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/utilities/Constants.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/utilities/Constants.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/utilities/GrowZoneUtil.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/utilities/GrowZoneUtil.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/utilities/InjectorUtils.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/utilities/InjectorUtils.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/viewmodels/GardenPlantingListViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/viewmodels/GardenPlantingListViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/viewmodels/GardenPlantingListViewModelFactory.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/viewmodels/GardenPlantingListViewModelFactory.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/viewmodels/PlantAndGardenPlantingsViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/viewmodels/PlantAndGardenPlantingsViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/viewmodels/PlantDetailViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/viewmodels/PlantDetailViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/viewmodels/PlantDetailViewModelFactory.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/viewmodels/PlantDetailViewModelFactory.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/viewmodels/PlantListViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/viewmodels/PlantListViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/viewmodels/PlantListViewModelFactory.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/viewmodels/PlantListViewModelFactory.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/views/MaskedCardView.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/views/MaskedCardView.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/workers/SeedDatabaseWorker.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/workers/SeedDatabaseWorker.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/anim/slide_in_left.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/anim/slide_in_left.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/anim/slide_in_right.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/anim/slide_in_right.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/anim/slide_out_left.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/anim/slide_out_left.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/anim/slide_out_right.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/anim/slide_out_right.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/animator/show_toolbar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/animator/show_toolbar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/garden_tab_selector.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/garden_tab_selector.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_detail_back.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_detail_back.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_detail_share.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_detail_share.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_filter_list_24dp.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_filter_list_24dp.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_my_garden_active.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_my_garden_active.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_my_garden_inactive.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_my_garden_inactive.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_plant_list_active.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_plant_list_active.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_plant_list_inactive.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_plant_list_inactive.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_plus.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_plus.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/plant_list_tab_selector.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/plant_list_tab_selector.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/tab_icon_color_selector.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/tab_icon_color_selector.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_garden.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_garden.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_garden.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_garden.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_plant_detail.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_plant_detail.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_plant_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_plant_list.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_view_pager.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_view_pager.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/list_item_garden_planting.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/list_item_garden_planting.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/list_item_plant.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/list_item_plant.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/menu/menu_plant_detail.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/menu/menu_plant_detail.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/menu/menu_plant_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/menu/menu_plant_list.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/navigation/nav_garden.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/navigation/nav_garden.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-ca/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values-ca/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-de/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values-de/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-es/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values-es/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-fr/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values-fr/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-it/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values-it/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-ja/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values-ja/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-night-v21/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values-night-v21/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-night/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values-night/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-ru/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values-ru/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-tr-rTR/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values-tr-rTR/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-v21/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values-v21/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-v29/shape.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values-v29/shape.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-zh-rCN/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values-zh-rCN/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-zh-rTW/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values-zh-rTW/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/anim.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/anim.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/integers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/integers.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/shape.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/shape.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/google/samples/apps/sunflower/data/ConvertersTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/google/samples/apps/sunflower/data/ConvertersTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/google/samples/apps/sunflower/data/GardenPlantingTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/google/samples/apps/sunflower/data/GardenPlantingTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/google/samples/apps/sunflower/data/PlantTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/google/samples/apps/sunflower/data/PlantTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/google/samples/apps/sunflower/utilities/GrowZoneUtilTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/google/samples/apps/sunflower/utilities/GrowZoneUtilTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/ic_launcher-web.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/icon_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/icon_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/jetpack_donut.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/phone_my_garden.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/phone_plant_detail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/phone_plant_list.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="newphone" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dqFnDB0YE1osbzSaa95WDUiaxp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4ecbf85-5a94-4d76-a3eb-889d95ce022a" name="Default Changelist" comment="" />
+      <created>1593144880378</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593144880378</updated>
+    </task>
+    <servers />
+  </component>
+</project>
